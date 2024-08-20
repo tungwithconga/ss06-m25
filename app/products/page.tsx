@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div>page</div>
+    <div>trang danh sach san pham</div>
   )
 }
